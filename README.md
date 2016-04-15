@@ -1,2 +1,2 @@
 # A (very) Lightweight PHP MVC Framework
-Light PHP MVC
+Light PHP MVC framework
